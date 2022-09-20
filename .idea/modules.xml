@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Collections.iml" filepath="$PROJECT_DIR$/.idea/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_10b/java-collections-2421704/java-collections-final.iml" filepath="$PROJECT_DIR$/02_10b/java-collections-2421704/java-collections-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_02b/java-collections-2421704/java-collections-final (1).iml" filepath="$PROJECT_DIR$/03_02b/java-collections-2421704/java-collections-final (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue_and_Deque/06_02b/java-collections-2421704/java-collections-final (10).iml" filepath="$PROJECT_DIR$/Queue_and_Deque/06_02b/java-collections-2421704/java-collections-final (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue_and_Deque/06_04b/java-collections-2421704/java-collections-final (11).iml" filepath="$PROJECT_DIR$/Queue_and_Deque/06_04b/java-collections-2421704/java-collections-final (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_03b/java-collections-2421704/java-collections-final (2).iml" filepath="$PROJECT_DIR$/03_03b/java-collections-2421704/java-collections-final (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_04b/java-collections-2421704/java-collections-final (3).iml" filepath="$PROJECT_DIR$/03_04b/java-collections-2421704/java-collections-final (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_05b/java-collections-2421704/java-collections-final (4).iml" filepath="$PROJECT_DIR$/03_05b/java-collections-2421704/java-collections-final (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_06b/java-collections-2421704/java-collections-final (5).iml" filepath="$PROJECT_DIR$/03_06b/java-collections-2421704/java-collections-final (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_07b/java-collections-2421704/java-collections-final (6).iml" filepath="$PROJECT_DIR$/03_07b/java-collections-2421704/java-collections-final (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/04_02b/java-collections-2421704/java-collections-final (7).iml" filepath="$PROJECT_DIR$/Set/04_02b/java-collections-2421704/java-collections-final (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/04_03b/java-collections-2421704/java-collections-final (8).iml" filepath="$PROJECT_DIR$/Set/04_03b/java-collections-2421704/java-collections-final (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/05_04b/java-collections-2421704/java-collections-final (9).iml" filepath="$PROJECT_DIR$/List/05_04b/java-collections-2421704/java-collections-final (9).iml" />
+    </modules>
+  </component>
+</project>
